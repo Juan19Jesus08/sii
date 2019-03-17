@@ -1,0 +1,12 @@
+C:\Xamarin\sii\sii\sii\bin\Debug\netstandard2.0\sii.deps.json
+C:\Xamarin\sii\sii\sii\bin\Debug\netstandard2.0\sii.dll
+C:\Xamarin\sii\sii\sii\bin\Debug\netstandard2.0\sii.pdb
+C:\Xamarin\sii\sii\sii\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\sii\sii\sii\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin\sii\sii\sii\obj\Debug\netstandard2.0\sii.csproj.CoreCompileInputs.cache
+C:\Xamarin\sii\sii\sii\obj\Debug\netstandard2.0\sii.AssemblyInfoInputs.cache
+C:\Xamarin\sii\sii\sii\obj\Debug\netstandard2.0\sii.AssemblyInfo.cs
+C:\Xamarin\sii\sii\sii\obj\Debug\netstandard2.0\sii.dll
+C:\Xamarin\sii\sii\sii\obj\Debug\netstandard2.0\sii.pdb
+C:\Xamarin\sii\sii\sii\obj\Debug\netstandard2.0\sii.csprojAssemblyReference.cache
+C:\Xamarin\sii\sii\sii\obj\Debug\netstandard2.0\XamlC.stamp
